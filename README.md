@@ -1,3 +1,6 @@
 # College Graduation Rates
 
-Group project done by Andrew Carl, Charles Casper and Youn Hee Pernling Frödin.
+##Group project by" 
+-Andrew Carl 
+-Charles Casper - https://github.com/ccaspar
+-Youn Hee Pernling Frödin - https://github.com/yhpf

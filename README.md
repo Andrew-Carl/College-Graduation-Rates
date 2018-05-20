@@ -12,7 +12,6 @@
 Data was collected from https://collegescorecard.ed.gov/data/. 
 
 # Background
-![image](https://user-images.githubusercontent.com/35437820/40274712-177af05e-5bac-11e8-9156-169b60739ef4.png)
 
 Over the last 30-40 years, for the poorest wealth group, college attendance has risen. However, overall college graduation has not risen. National graduation average for full-time students at 4-year degree-granting institutions was 59 percent. On a positive note, even though college tuition has risen, students that come from modest backgrounds are attending college at the highest rate ever. Goal: What causes colleges to have higher graduation rates than others? Is it financial background or is there something else causing low graduation rates. 
 

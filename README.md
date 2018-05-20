@@ -1,4 +1,5 @@
 # College Graduation Rates
+![accomplishment-ceremony-college-267885](https://user-images.githubusercontent.com/35437820/40274873-e7d0390a-5baf-11e8-934e-7e56768da2ea.jpg)
 
 **Group project by:**
 
